@@ -1,0 +1,66 @@
+Perguntas Técnicas
+
+- Fundamentos do Java
+
+O que é o JDK e o JRE, e qual é a diferença entre eles?
+Explique a diferença entre uma classe abstrata e uma interface em Java.
+O que é o conceito de "autoboxing" em Java? Como ele funciona?
+
+Orientação a Objetos
+
+O que são polimorfismo e herança? Pode dar exemplos de como esses conceitos são aplicados em Java?
+O que é encapsulamento e como ele é implementado em Java?
+Como você evita problemas com herança múltipla em Java?
+
+Coleções e Streams
+
+Qual é a diferença entre ArrayList e LinkedList? Em quais situações você usaria cada um?
+Explique o que é o Stream API e como ele pode ser utilizado para manipulação de coleções.
+Como você pode ordenar uma lista de objetos personalizados? Quais interfaces ou classes você utilizaria?
+
+Concorrência e Multithreading
+
+O que são threads em Java e como você pode criar e gerenciar várias threads?
+Explique o que é uma condição de corrida (race condition) e como você pode evitá-la em Java.
+O que é um synchronized e como ele funciona?
+
+JVM e Performance
+
+Como o Garbage Collector (GC) funciona em Java? Quais são os diferentes tipos de coletor e quando você deve usá-los?
+O que são leaks de memória e como você pode diagnosticá-los e corrigi-los em Java?
+Explique como você pode otimizar o desempenho de uma aplicação Java.
+
+Design Patterns
+
+Você pode explicar o padrão Singleton e como ele pode ser implementado em Java?
+O que é o padrão Observer e como você o utilizaria em uma aplicação Java?
+Dê um exemplo de um padrão de design que você usou em projetos anteriores e explique por que o escolheu.
+
+- Perguntas de Desenvolvimento e Práticas
+
+Metodologias de Desenvolvimento
+
+Qual é a sua experiência com metodologias ágeis, como Scrum ou Kanban?
+Como você gerencia e revisa o código em sua equipe? Quais ferramentas você utiliza para controle de versão?
+
+Resolução de Problemas
+
+Dê um exemplo de um problema técnico complexo que você enfrentou e como você o resolveu.
+Como você aborda a depuração de um problema em um aplicativo Java?
+
+Trabalho em Equipe e Comunicação
+
+Como você lida com conflitos em uma equipe de desenvolvimento?
+Como você garante que suas soluções de código sejam bem documentadas e compreendidas por outros desenvolvedores?
+
+- Perguntas de Projeto e Experiência
+
+Projetos Anteriores
+
+Fale sobre um projeto Java significativo no qual você trabalhou. Qual foi o seu papel e quais foram os principais desafios?
+Como você lida com mudanças de requisitos durante o desenvolvimento de um projeto?
+
+Atualização e Aprendizado
+
+Como você se mantém atualizado com as últimas tendências e atualizações na linguagem Java e nas tecnologias relacionadas?
+Qual foi a última nova tecnologia ou ferramenta Java que você aprendeu e como a aplicou em um projeto?

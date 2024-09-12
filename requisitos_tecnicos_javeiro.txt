@@ -1,0 +1,133 @@
+Requisitos hoje pra ser um dev jr java pica na minha visão:
+
+Java, com:
+- stream
+- testes unitários
+- date, collections, io, etc
+DB relacional e não relacional
+Spring - Cloud, Boot, Security, Data
+Docker.
+O básico de cloud (EC2, SQS, S3, CW)
+
+Projeto com tudo isso aqui = vaga.
+
+
+Qual projeto da pra fazer que tenha tudo isso?
+Carrilho - @devmagro
+@devmagro
+·
+14 de mar
+Api Rest com uma organizaçãozinha legal de cadastro / alguma ação, sei lá, algo que seja útil no cotidiano.
+
+Com autenticação via token, salvando cadastros / informações no S3 utilizando filas SQS, salvando num DB rodando em docker..
+
+Sobe tudo no docker hub pra disponibilizar...
+
+
+
+_-----------------------
+
+
+
+Tecnologias e Ferramentas:
+
+Linguagens e Frameworks: Java 8, Java 11, Spring Boot 2, Angular, JSF, JSP , JavaPrimeFaces, jQuery.
+Banco de Dados: Oracle.
+Comunicação: RESTful, JSON, SOAP.
+Controle de Versão e IDEs: GIT SVN, IntelliJ e Eclipse.Contribuições Destacadas: Liderança em Sustentação: Participei uma equipe multifuncional, assumindo a responsabilidade de analisar e resolver possíveis falhas e erros em 12 projetos monolíticos. Inovação e Melhorias Contínuas: Fui incansável na proposição de melhorias, refinando métodos dos EndPoints, refatorando projetos com sugestões de inovações e versões tecnológicas avançadas. Tecnologias e Ferramentas: Linguagens e Frameworks: Java 8, Java 11, Spring Boot 2, Angular, JSF, JSP , JavaPrimeFaces, jQuery. Banco de Dados: Oracle. Comunicação: RESTful, JSON, SOAP. Controle de Versão e IDEs: GIT SVN, IntelliJ e Eclipse.
+Frameworks Java, Resolução de problemas e mais 1
+
+
+- Java 7 - 11 
+- Sistema EJB (Java Beans)
+- BAnco de dados Oracle (precisa saber ve uma query, inner joins)
+- Servidor Websphere (toda parte configurada no servidor)
+- Alguns projetos em Angular com spring, mas são poucos.
+- azure
+
+- Programar (com paixão!)
+- Ser crítico em relação à qualidade
+- 2 anos de experiência profissional na área de desenvolvimento de software
+- Conhecimento sólido e experiência profissional em Java, TypeScript, Docker, HTML5, CSS3
+- Conhecimento sobre os frameworks Spring, Hibernate e ReactJS
+- Experiência com sistemas de mensageria como RabbitMQ ou Amazon SQS
+- Experiência com a linguagem SQL e bancos de dados PostgreSQL
+- Experiência com as seguintes tecnologias será considerada como diferencial: Golang, GraalVM, MongoDB, OpenID Connect, Dart e Flutter
+- Aptidão para trabalho em equipe e bom relacionamento interpessoal
+- Graduado em TI: Engenharia Elétrica ou da Computação, Ciência da Computação, Sistemas de Informação ou similares
+
+Java 8 ou superior
+Spring Framework (Spring Boot, MVC, Data), Hibernate, JPA
+Processo de build com Maven, Esteira CI/CD , Pipelines
+Controle de versão com Git (Gitlab ou Github, Gitflow)
+Testes unitários (JUnit, Mockito, Cucumber)
+Processamento assíncrono e mensageria (RabbitMQ, Kafka, SQS)
+Bancos de dados SQL/NoSQL (MySQL, Postgres, Redis)
+Metodologias de desenvolvimento: OOP, TDD, BDD, Ágil, XP, Scrum
+Arquiteturas baseadas em microsserviços, API RESTful e JSON
+Containers com Docker e Kubernetes
+Protocolo HTTP/S, CORS, JWT, OAuth, Linux
+
+desenvolver e manter API’s em golang que serão consumidas pelos parceiros externos a fim de acompanharmos os envios das vendas feitos por cada parceiro logístico;
+consumir API’s Rest em golang dos parceiros externos;
+consumir API’s internas Rest em ruby on rails para acompanhamento dos envios feitos pela nossa plataforma;
+manter integrações consumindo API SOAP de parceiros; 
+executar e escrever testes automatizados;
+realizar análises de impacto, analisando com criticidade as demandas apresentadas, de forma a pesquisar e apresentar possíveis soluções, melhorias ou correções nos nossos serviços existentes;
+monitorar de forma contínua e preventiva os serviços existentes a fim de manter os serviços operando corretamente;
+trabalhar em equipe, contribuindo com análise crítica dos projetos, questionando e propondo alternativas para soluções propostas.
+REQUISITOS E QUALIFICAÇÕES
+experiência com implementação API REST com verbos HTTP e protocolo HTTP e HTTPS;
+experiência com consumo de API’s REST;
+capacidade de analisar criticamente um cenário/demanda e a partir disso organizar e planejar prazos de entregas;
+disposição para trabalhar com uma das linguagens golang e ruby on rails, quando necessário;
+conhecimento de SQL;
+experiência em executar e escrever testes;
+conhecimento de boas práticas de programação (POO).
+
+
+Experiência com banco de dados NoSQL e SQL (MongoDB , MySQL e Redis).
+Conhecimento em AWS.
+Conhecimento em containers (Docker).
+Experiência com Git e GitHub.
+Conhecimento em CI/CD (Github Workflows).
+Conhecimento em arquitetura de microsserviços;
+Conhecimento em message brokers (RabbitMQ, SQS ou Apache Kafka);
+Experiência com GitHub Actions.
+Experiência com cloud computing (AWS, Azure, Google Cloud, OCI).
+Conhecimento em Clean Code. Design Patterns e Design de Código(DDD, Arquitetura Hexagonal).
+BackEnd: Java 8 ao 17, Quarkus, Maven, Micro Service - Legado: Struts e Thorntail;
+Desejável: Spring Boot Docker e Kubernetes;
+Banco de Dados: Redis, Postgres - Desejável: SQL Server, DB Migration Flyway;
+Mensageria: ActiveMQ/ArtemisMQ -Desejável: Service Bus;
+
+
+Experiência com de bancos relacionais como MySQL;
+Experiência com de bancos não relacionais como MongoDB;
+Noções de CI/CD;
+
+____________________
+
+Diferenciais 💡
+Conhecimento de API Gateways e autenticação OAuth2;
+Noções de python ou golang;
+Noções de System Design e Arquitetura de Software;
+Por enquanto as vagas estão descritas como backend, conhecimentos de Java/Kotlin, AWS, SQL, NoSQL, Conhecimentos de REST, Mensageria Eventos e sistemas distribuídos.
+
+_____________________________
+
+JAVA JR
+
+Experiência com orientação a objetos;
+Experiência com Java;
+Conhecimento das boas práticas de desenvolvimento (Clean code, SOLID, Revisão de código) e desenvolvimento seguro;
+Conhecimento em GoLang, Node.JS ou PHP é um diferencial;
+Conhecimento em Docker e Git;
+Conhecimento em base de dados relacional e não relacional;
+Conhecimento em arquitetura de micro serviços, aplicações distribuídas e integração com plataformas externas;
+Conhecimento em testes automatizados (unitários e de integração);
+Conhecimento em monitoração de desempenho de aplicações.
+
+- curriculum
+- linkedin
+- portfolio

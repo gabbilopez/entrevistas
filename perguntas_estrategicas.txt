@@ -1,0 +1,33 @@
+Aqui estão algumas perguntas estratégicas que podem ajudar você a se sobressair:
+
+Sobre o Projeto e o Time:
+
+"Quais são os principais projetos ou desafios que a equipe de desenvolvimento está enfrentando atualmente?"
+"Como é a estrutura da equipe de desenvolvimento? Com quem eu colaboraria mais frequentemente?"
+"Qual é o ciclo típico de desenvolvimento aqui? Vocês seguem alguma metodologia ágil, como Scrum ou Kanban?"
+
+Sobre Tecnologia e Ferramentas:
+
+"Quais são as principais tecnologias e ferramentas que a equipe usa atualmente?"
+"Há algum plano para adotar novas tecnologias ou frameworks no futuro próximo?"
+"Como é feito o gerenciamento de dependências e versões em seus projetos?"
+
+Sobre a Cultura e a Empresa:
+
+"Como você descreveria a cultura da empresa e a dinâmica da equipe?"
+"Quais são as oportunidades de crescimento e desenvolvimento profissional aqui?"
+"Como a empresa lida com feedback e avaliações de desempenho?"
+
+Sobre Expectativas e Desempenho:
+
+"Quais são as principais expectativas para alguém que está entrando nessa posição nos primeiros seis meses?"
+"Como o desempenho é medido e avaliado para a posição de desenvolvedor Java?"
+"Há oportunidades para contribuir com ideias e sugestões para melhorias de processos ou tecnologias?"
+
+Sobre Suporte e Recursos:
+
+"Que tipo de suporte ou recursos estão disponíveis para ajudar os desenvolvedores a resolver problemas e continuar aprendendo?"
+"Como a empresa promove a atualização contínua das habilidades dos funcionários?"
+
+Essas perguntas mostram que você está pensando no papel de forma abrangente e estratégica, 
+além de demonstrar um interesse genuíno em como você pode contribuir e crescer dentro da empresa.
